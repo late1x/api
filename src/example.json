@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "Nombre_Calzado": "Air Force One",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "11000 ventas en el año",
+        "Colores_mas_vendidos": "Negro, Blanco",
+        "imagen": "/images/Air Force One.jpg",
+        "precio": 3000
+    },
+    {
+        "id": 2,
+        "Nombre_Calzado": "New Balance",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "8800 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con negro, Azul marino con blanco",
+        "imagen": "/images/New Balace.jpg",
+        "precio": 2800
+
+    },
+    {
+        "id": 3,
+        "Nombre_Calzado": "Air 270",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "53000 ventas en el año",
+        "Colores_mas_vendidos": "Negro, Blanco con negro, blanco con azul, Negro con dorado",
+        "imagen": "images/Air 270.jpg",
+        "precio": 4050
+    },
+    {
+        "id": 4,
+        "Nombre_Calzado": "Coonverse",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "21000 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
+        "imagen": "images/Conversee.jpg",
+        "precio": 1800
+    },
+    {
+        "id": 5,
+        "Nombre_Calzado": "Nike N.354",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "3450 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul, blanco con cafe",
+        "imagen": "images/Nike N.354.jpg",
+        "precio": 2400
+    },
+    {
+        "id": 6,
+        "Nombre_Calzado": "Adidas Neo",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "1890 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
+        "imagen": "images/Adidas Neo.jpg",
+        "precio": 1500
+    },
+    {
+        "id": 7,
+        "Nombre_Calzado": "Adidas Concha",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "21000 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo, Blanco Verde",
+        "imagen": "images/Adidas Concha.jpg",
+        "precio": 4000
+    },
+    {
+        "id": 8,
+        "Nombre_Calzado": "Roche",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "21000 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco, Negro",
+        "imagen": "images/Roche.jpg",
+        "precio": 1450
+    },
+    {
+        "id": 9,
+        "Nombre_Calzado": "Jordan Nike",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "21000 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
+        "imagen": "images/Nike Jordan.jpg",
+        "precio": 5000
+    },
+    {
+        "id": 10,
+        "Nombre_Calzado": "Down Nike",
+        "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
+        "Ranking_de_ventas": "15400 ventas en el año",
+        "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
+        "imagen": "images/Dunk.jpg",
+        "precio": 2000
+    }
+]
