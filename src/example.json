@@ -5,8 +5,8 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "11000 ventas en el año",
         "Colores_mas_vendidos": "Negro, Blanco",
-        "imagen": "/images/Air Force One.jpg",
-        "precio": 3000
+        "URL_DE_COMPRA": "https://www.nike.com/mx/t/calzado-air-force-1-07-easyon-snmJ3T?cp=10643313266_ad_pdisp_&cp=56518081177_ad_!16952171499!!c!!&gad_source=1&gclid=CjwKCAiApaarBhB7EiwAYiMwqsuI-MzfK0rulYodTwQrwQOr74ZKbgjpHBiEfzOnwXDLfX6RhsDz4xoCXygQAvD_BwE&gclsrc=aw.ds",
+        "precio": 2599
     },
     {
         "id": 2,
@@ -14,8 +14,8 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "8800 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con negro, Azul marino con blanco",
-        "imagen": "/images/New Balace.jpg",
-        "precio": 2800
+        "URL_DE_COMPRA": "https://www.amazon.com.mx/New-Balance-Unisex-Child-574-Lifestyle/dp/B096NFZRD4/ref=asc_df_B096NFZRD4/?tag=gledskshopmx-20&linkCode=df0&hvadid=673210972996&hvpos=&hvnetw=g&hvrand=10325838946938632195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20706&hvtargid=pla-1773480345098&psc=1&mcid=064d3e6f6c3631adb3f58b7583565d9b",
+        "precio": 1300
 
     },
     {
@@ -24,8 +24,8 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "53000 ventas en el año",
         "Colores_mas_vendidos": "Negro, Blanco con negro, blanco con azul, Negro con dorado",
-        "imagen": "images/Air 270.jpg",
-        "precio": 4050
+        "URL_DE_COMPRA": "https://www.nike.com/mx/t/calzado-air-max-270-nnTrqDGR?cp=10643313266_ad_pdisp_&cp=56518081177_ad_!16952171499!!c!!&gad_source=1&gclid=CjwKCAiApaarBhB7EiwAYiMwqgxD0TrBwXoQgphVB1Pq_ORZyzyZqI98oDq7bDbFSTpTgpSbars68hoCGrEQAvD_BwE&gclsrc=aw.ds",
+        "precio": 3799
     },
     {
         "id": 4,
@@ -33,17 +33,17 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "21000 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
-        "imagen": "images/Conversee.jpg",
-        "precio": 1800
+        "URL_DE_COMPRA": "https://www.coppel.com/converse/tenis-converse-juveniles-pr-8649512",
+        "precio": 1249
     },
     {
         "id": 5,
-        "Nombre_Calzado": "Nike N.354",
+        "Nombre_Calzado": "Nike Squash",
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "3450 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul, blanco con cafe",
-        "imagen": "images/Nike N.354.jpg",
-        "precio": 2400
+        "URL_DE_COMPRA": "https://e-buy-6.lol/ProductDetail.aspx?iid=177478773&pr=60.88",
+        "precio": 20.88
     },
     {
         "id": 6,
@@ -51,8 +51,8 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "1890 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
-        "imagen": "images/Adidas Neo.jpg",
-        "precio": 1500
+        "URL_DE_COMPRA": "https://www.amazon.com.mx/Adidas-Advantage-Blanco-Mujer-Measurement_27_Point_5_Centimeters/dp/B07TK25TXK/ref=asc_df_B07TK25TXK/?tag=gledskshopmx-20&linkCode=df0&hvadid=451059301906&hvpos=&hvnetw=g&hvrand=6344714467801733279&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20706&hvtargid=pla-947321219404&mcid=bcffc83ab5f13b189208640b882962b5&th=1&psc=1",
+        "precio": 1200
     },
     {
         "id": 7,
@@ -60,8 +60,8 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "21000 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo, Blanco Verde",
-        "imagen": "images/Adidas Concha.jpg",
-        "precio": 4000
+        "URL_DE_COMPRA": "https://www.amazon.com.mx/Adidas-ORIGINALS-Superstar-Zapatillas-Hombre/dp/B07TLNDCS9/ref=asc_df_B07TLNDCS9/?tag=gledskshopmx-20&linkCode=df0&hvadid=601064318110&hvpos=&hvnetw=g&hvrand=14818806675513343460&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20706&hvtargid=pla-853160178638&mcid=476402830a463b88846a2470480565d6&th=1&psc=1",
+        "precio": 2156
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "21000 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco, Negro",
-        "imagen": "images/Roche.jpg",
+        "URL_DE_COMPRA": "https://www.coppel.com/tenis-nike-tanjun-para-mujer-pr-8500752?utm_source=google&utm_medium=cpc&utm_campaign=aw_coppel_tnd_do_shopping_standard_zapatos&gad_source=1&gclid=CjwKCAiApaarBhB7EiwAYiMwqm2zczN8B4N5QJ-YQ8wBe-OvIMk3Z9dtmZx8HFlxvvxnhjv1Q8RS3hoCvsIQAvD_BwE",
         "precio": 1450
     },
     {
@@ -78,8 +78,8 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "21000 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
-        "imagen": "images/Nike Jordan.jpg",
-        "precio": 5000
+        "URL_DE_COMPRA": "https://www.nike.com/mx/t/calzado-air-jordan-1-mid-f8W9ns?cp=10643313266_ad_pdisp_&cp=56518081177_ad_!16952171499!!c!!&gad_source=1&gclid=CjwKCAiApaarBhB7EiwAYiMwqgYIfuytNqGVstBvNe-NLvt7jGeSYjLoxmm6SGj7EU6NyQj3Vr-64hoC9jsQAvD_BwE&gclsrc=aw.ds",
+        "precio": 3199
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "Descripcion": "Teni mas vendido en el año 2023, con excelente calidad, tanto en estetica como en comodidad",
         "Ranking_de_ventas": "15400 ventas en el año",
         "Colores_mas_vendidos": "Negro con blanco, Blanco con rojo y azul",
-        "imagen": "images/Dunk.jpg",
-        "precio": 2000
+        "URL_DE_COMPRA": "https://www.amazon.com.mx/Nike-Hombre-Retro-DD1391-Blanco/dp/B08Q9W5GMT/ref=asc_df_B08Q9W5GMT/?tag=gledskshopmx-20&linkCode=df0&hvadid=660853925667&hvpos=&hvnetw=g&hvrand=8510426619445022841&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20706&hvtargid=pla-1312380284366&mcid=8d8cd90c2ed23369a37ac55b164491c7&th=1&psc=1",
+        "precio": 3753
     }
 ]
